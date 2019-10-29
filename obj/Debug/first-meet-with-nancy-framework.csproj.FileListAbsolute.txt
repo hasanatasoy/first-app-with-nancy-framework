@@ -1,0 +1,12 @@
+C:\Users\Rash\source\repos\first-meet-with-nancy-framework\first-meet-with-nancy-framework\obj\Debug\first-meet-with-nancy-framework.csprojAssemblyReference.cache
+C:\Users\Rash\source\repos\first-meet-with-nancy-framework\first-meet-with-nancy-framework\obj\Debug\first-meet-with-nancy-framework.csproj.CoreCompileInputs.cache
+C:\Users\Rash\source\repos\first-meet-with-nancy-framework\first-meet-with-nancy-framework\bin\Debug\first-meet-with-nancy-framework.exe.config
+C:\Users\Rash\source\repos\first-meet-with-nancy-framework\first-meet-with-nancy-framework\bin\Debug\first-meet-with-nancy-framework.exe
+C:\Users\Rash\source\repos\first-meet-with-nancy-framework\first-meet-with-nancy-framework\bin\Debug\first-meet-with-nancy-framework.pdb
+C:\Users\Rash\source\repos\first-meet-with-nancy-framework\first-meet-with-nancy-framework\bin\Debug\Nancy.dll
+C:\Users\Rash\source\repos\first-meet-with-nancy-framework\first-meet-with-nancy-framework\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\Rash\source\repos\first-meet-with-nancy-framework\first-meet-with-nancy-framework\bin\Debug\Nancy.xml
+C:\Users\Rash\source\repos\first-meet-with-nancy-framework\first-meet-with-nancy-framework\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\Rash\source\repos\first-meet-with-nancy-framework\first-meet-with-nancy-framework\obj\Debug\first-meet-with-nancy-framework.csproj.CopyComplete
+C:\Users\Rash\source\repos\first-meet-with-nancy-framework\first-meet-with-nancy-framework\obj\Debug\first-meet-with-nancy-framework.exe
+C:\Users\Rash\source\repos\first-meet-with-nancy-framework\first-meet-with-nancy-framework\obj\Debug\first-meet-with-nancy-framework.pdb
